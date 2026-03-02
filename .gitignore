@@ -3,3 +3,13 @@ dist/
 *.log
 .env
 .DS_Store
+
+# Local build artifacts / bundles
+*.mcpb
+
+# Local caches
+__pycache__/
+*.py[cod]
+
+# Claude Code local metadata
+.claude/
